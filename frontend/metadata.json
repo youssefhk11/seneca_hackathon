@@ -1,0 +1,5 @@
+{
+  "name": "FitConnect - AI Fitness Community",
+  "description": "An AI-powered web application for a fitness community. Users can create profiles, get matched with other members, and receive personalized fitness advice from an AI assistant.",
+  "requestFramePermissions": []
+}
