@@ -387,7 +387,7 @@ GET /api/community/events - Get community events
 
 GET /api/leaderboard - Get leaderboard data
 
-Team Members
+Team Members:
 Ahmed Layouni
 
 Youssef Hajckacem
