@@ -1,7 +1,7 @@
 FitConnect - AI-Powered Fitness Community
 Overview
 FitConnect is an AI-powered web application designed to create a vibrant fitness community where users can create profiles, get matched with other members, and receive personalized fitness advice from an AI assistant. The platform combines social features with intelligent recommendations to help users achieve their fitness goals.
-DEMO LINK:https://drive.google.com/file/d/1kjMbRiK3pJRrTt08RLSsmYURVa9k052v/view?usp=sharing
+DEMO LINK:
 https://drive.google.com/file/d/1nVFnTD7hEr54X4m0FApzapx8G8oiRlTI/view?usp=sharing
 
 FitConnect - AI-Powered Fitness Community
